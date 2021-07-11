@@ -154,7 +154,13 @@ height: 10vh;
     body > div > div.links > ul > li:nth-child(odd) > a{
     font-size: 1rem;
 
-  }}
+  }
+  .social{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+}
+}
 
 
 
