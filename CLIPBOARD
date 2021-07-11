@@ -1,0 +1,11 @@
+ <div class="quotations">
+                            <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+                                <div class="card-header">Header</div>
+                                <div class="card-body">
+                                  <h5 class="card-title">My Ideas</h5>
+                                  <p class="card-text">“ I just wanna represent an idea. I just wanna represent possibilities.<br> 
+                                    I wanna represent the idea that you can really create just everything you want to create!<br> 
+                                    I believe that we're who we choose to be.”</p>
+                                </div>
+                              </div>
+                        </div>
