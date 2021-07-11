@@ -160,7 +160,7 @@ body > div.cont > div.main-container > div.main > header > div > p:nth-child(4){
   }
   .social{
     position: sticky;
-    bottom: 2vh;
+    bottom: 3vh;
     left: 20px;
     z-index: 100;
 }
