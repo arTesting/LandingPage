@@ -156,9 +156,10 @@ height: 10vh;
 
   }
   .social{
-    position: fixed;
-    bottom: 20px;
+    position: sticky;
+    bottom: 2vh;
     left: 20px;
+    z-index: 100;
 }
 }
 
